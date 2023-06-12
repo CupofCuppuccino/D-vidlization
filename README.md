@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href= "https://github.com/CupofCuppuccino/D-vidlization">
-    <img src="Resources/logo.png" alt="Logo" width="80" height="80">
+    <img src="Resources\logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">D-vidlization</h3>
@@ -82,7 +82,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Here is a Demonstration of this Program](/Resources/Product Overview.png "Overview of Program")](https://github.com/CupofCuppuccino/D-vidlization/tree/master)
+[![Here is a Demonstration of this Program](/Resources/ProductOverview.png "Overview of Program")](https://github.com/CupofCuppuccino/D-vidlization/tree/master)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -91,7 +91,7 @@
 ### Built With
 
 * [Python](https://www.python.org)
-	* [ffmpeg & moviepy]
+	* ffmpeg & moviepy
 * [Tkinter布局助手](https://www.pytk.net/tkinter-helper)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
