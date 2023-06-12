@@ -1,0 +1,6 @@
+Help (for the entire program)
+1) Apparently you have already downloaded our program (D-vidlization-main) from github, please unpack the file
+2) Open gui.py and then run it
+3) The "Extract-mp3 GUI" page should have popped up
+4) For the other functions, press "More widgets" on the left up corner next to "Help", and they will open automatically
+5) If you are uncertain of their specific functions, please click "Help" again
