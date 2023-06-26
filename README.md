@@ -17,12 +17,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -38,7 +32,7 @@
   <p align="center">
     Includes Audio Extract, Audio Crawling, various Audio Edit Functions, and also ffmpeg auto setup!
     <br />
-    <a href="href= "https://github.com/CupofCuppuccino/D-vidlization""><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/CupofCuppuccino/D-vidlization""><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/CupofCuppuccino/D-vidlization">View Demo</a>
@@ -82,11 +76,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Here is a Demonstration of this Program](./Resources/ProductOverview.png "Overview of Program")](https://github.com/CupofCuppuccino/D-vidlization/tree/master)
+[![Here is a Demonstration of this Program](./Resources/ProductOverview.png "Overview of Program")]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-![random pic](randomPic.png)
 
 
 
@@ -122,9 +115,11 @@ Our program is based on Python, and most of our external libraries are automatic
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+[![D1](./Resources/AudioFunctionsGUI.png "AudioFunctionsGUI")](https://github.com/CupofCuppuccino/D-vidlization/tree/master)
+[![D2](./Resources/AudioPathGUI.png "AudioPathGUI")](https://github.com/CupofCuppuccino/D-vidlization/tree/master)
+[![D1](./Resources/ExtractAudio1.png "ExtractAudio1")](https://github.com/CupofCuppuccino/D-vidlization/tree/master)
+[![D1](./Resources/ExtractAudio1.png "ExtractAudio1")](https://github.com/CupofCuppuccino/D-vidlization/tree/master)
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
