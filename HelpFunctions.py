@@ -321,7 +321,7 @@ This is a major widget created for project "D-vidlization"!''', font=('Arial', 1
         self.text01 = tk.Text(frame, height=5, width=60)
         self.text01.pack()
         self.text01.insert(tk.END,
-                           "To be added")
+                           "- 3D sound effect with 6 different speeds\n- compression with 2 different audio sample rates\n- volume edit that can be float numbers\n- speed edit which includes speed up as well as slow down\n- audio length edit that is measured in seconds\n- looping of the audio with self-contained fading between the two clips\n- fading effect at the two ends of the file")
 
         cannot = tk.Label(frame, text='What I cannot do:')
         cannot.pack()
@@ -329,14 +329,14 @@ This is a major widget created for project "D-vidlization"!''', font=('Arial', 1
         self.text02 = tk.Text(frame, height=5, width=60)
         self.text02.pack()
         self.text02.insert(tk.END,
-                           "To be added")
+                           "- Include any space in file names or folder names (which means no space in path)\n- Input non integers for loop")
 
         note = tk.Label(frame,
                         text='Feel free to click around the top tabs of this page to view more instructions!\n You can always access to this help by clicking "Help" at the top of the crawler widget.')
         note.pack()
 
         note2 = tk.Label(frame,
-                        text='Good Luck, and HAVE FUN!!!', font=('Arial', 8))
+                        text='Hope you like this program, and HAVE FUN!!!', font=('Arial', 8))
         note2.pack()
 
         cb1 = tk.Checkbutton(frame, text='Don\'t automatically show this again', command=alter_show)
