@@ -24,7 +24,7 @@
 <br />
 <div align="center">
   <a href= "https://github.com/CupofCuppuccino/D-vidlization">
-    <img src=".\Resources\logo.png" alt="Logo" width="80" height="80">
+    <img src=".\Resources\icon.ico" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">D-vidlization</h3>
@@ -63,7 +63,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <!--<li><a href="#roadmap">Roadmap</a></li>-->
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -76,7 +76,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Here is a Demonstration of this Program](./Resources/ProductOverview.png "Overview of Program")]
+![Here is a Demonstration of this Program](./Resources/ProductOverview.png "Overview of Program")
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -127,7 +127,7 @@ Our program is based on Python, and most of our external libraries are automatic
 
 <!-- ROADMAP -->
 ## Roadmap
-
+<!--
 - [] Feature 1
 - [] Feature 2
 - [] Feature 3
@@ -137,7 +137,7 @@ See the [open issues](https://github.com/CupofCuppuccino/D-vidlization/issues) f
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
+-->
 
 <!-- CONTRIBUTING -->
 ## Contributing
