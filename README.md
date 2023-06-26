@@ -24,7 +24,7 @@
 <br />
 <div align="center">
   <a href= "https://github.com/CupofCuppuccino/D-vidlization">
-    <img src=".\Resources\icon.ico" alt="Logo" width="80" height="80">
+    <img src=".\Resources\icon.ico" alt="Logo" width="150" height="150">
   </a>
 
 <h3 align="center">D-vidlization</h3>
@@ -88,6 +88,7 @@
 * [Python](https://www.python.org)
 	* ffmpeg & moviepy
 * [Tkinter布局助手](https://www.pytk.net/tkinter-helper)
+* [Markdown Guide](https://www.markdownguide.org)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -117,17 +118,17 @@ Our program is based on Python, and most of our external libraries are automatic
 
 [![D1](./Resources/AudioFunctionsGUI.png "AudioFunctionsGUI")](https://github.com/CupofCuppuccino/D-vidlization/tree/master)
 [![D2](./Resources/AudioPathGUI.png "AudioPathGUI")](https://github.com/CupofCuppuccino/D-vidlization/tree/master)
-[![D1](./Resources/ExtractAudio1.png "ExtractAudio1")](https://github.com/CupofCuppuccino/D-vidlization/tree/master)
-[![D1](./Resources/ExtractAudio1.png "ExtractAudio1")](https://github.com/CupofCuppuccino/D-vidlization/tree/master)
+[![D1](./Resources/ExtractAudio1.png "ExtractAudio1")](https://github.com/Abyss-Seeker/D-vidlization)
+[![D1](./Resources/ExtractAudio1.png "ExtractAudio1")](https://github.com/Abyss-Seeker/D-vidlization)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
-<!-- ROADMAP -->
+<!-- ROADMAP
 ## Roadmap
-<!--
+
 - [] Feature 1
 - [] Feature 2
 - [] Feature 3
@@ -169,7 +170,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - 1928356570@1928356570_client.com
+CupofCuppuccino - 1928356570@1928356570_client.com
+![Trial](./Resources/logo.png "creds Stardew Valley")
+
+Abyss-Seeker - to be written
 
 Project Link: [https://github.com/CupofCuppuccino/D-vidlization](https://github.com/CupofCuppuccino/D-vidlization)
 
@@ -177,15 +181,13 @@ Project Link: [https://github.com/CupofCuppuccino/D-vidlization](https://github.
 
 
 
-<!-- ACKNOWLEDGMENTS -->
+<!-- ACKNOWLEDGMENTS 
 ## Acknowledgments
 
 * []()
-* []()
-* []()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
+-->
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -202,4 +204,3 @@ Project Link: [https://github.com/CupofCuppuccino/D-vidlization](https://github.
 [license-url]: https://github.com/CupofCuppuccino/D-vidlization/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: Resources/Product Overview.png
